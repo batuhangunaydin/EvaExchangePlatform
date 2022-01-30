@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EvaExchangePlatform.Core\EvaExchangePlatform.Core.csproj" />
+    <ProjectReference Include="..\EvaExchangePlatform.Model\EvaExchangePlatform.Model.csproj" />
+    <ProjectReference Include="..\EvaExchangePlatform.Repository\EvaExchangePlatform.Repository.csproj" />
+    <ProjectReference Include="..\EvaExchangePlatform.Result\EvaExchangePlatform.Result.csproj" />
+  </ItemGroup>
+
+</Project>

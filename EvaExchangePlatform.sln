@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeRestAPI", "ExchangeRestAPI\ExchangeRestAPI.csproj", "{B69CEB9C-EDA9-41F8-8B61-FDC2E44FE400}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvaExchangePlatform.Business", "EvaExchangePlatform.Business\EvaExchangePlatform.Business.csproj", "{8228C1E5-8880-4CC8-AC31-F00E3B0D007A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaExchangePlatform.Result", "EvaExchangePlatform.Result\EvaExchangePlatform.Result.csproj", "{974D4504-FD44-4F3C-ACFC-335C574ED3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaExchangePlatform.Core", "EvaExchangePlatform.Core\EvaExchangePlatform.Core.csproj", "{1BFD8CD7-5D10-403C-A773-7D26521264E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaExchangePlatform.Model", "EvaExchangePlatform.Model\EvaExchangePlatform.Model.csproj", "{858D6B2D-15B0-4152-AE2E-47248E85400B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaExchangePlatform.Repository", "EvaExchangePlatform.Repository\EvaExchangePlatform.Repository.csproj", "{EBC31E1D-DC99-4C02-9DD6-2A60851B3212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69CEB9C-EDA9-41F8-8B61-FDC2E44FE400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69CEB9C-EDA9-41F8-8B61-FDC2E44FE400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69CEB9C-EDA9-41F8-8B61-FDC2E44FE400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69CEB9C-EDA9-41F8-8B61-FDC2E44FE400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8228C1E5-8880-4CC8-AC31-F00E3B0D007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8228C1E5-8880-4CC8-AC31-F00E3B0D007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8228C1E5-8880-4CC8-AC31-F00E3B0D007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8228C1E5-8880-4CC8-AC31-F00E3B0D007A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974D4504-FD44-4F3C-ACFC-335C574ED3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974D4504-FD44-4F3C-ACFC-335C574ED3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974D4504-FD44-4F3C-ACFC-335C574ED3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974D4504-FD44-4F3C-ACFC-335C574ED3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFD8CD7-5D10-403C-A773-7D26521264E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFD8CD7-5D10-403C-A773-7D26521264E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFD8CD7-5D10-403C-A773-7D26521264E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFD8CD7-5D10-403C-A773-7D26521264E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858D6B2D-15B0-4152-AE2E-47248E85400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858D6B2D-15B0-4152-AE2E-47248E85400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858D6B2D-15B0-4152-AE2E-47248E85400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858D6B2D-15B0-4152-AE2E-47248E85400B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC31E1D-DC99-4C02-9DD6-2A60851B3212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC31E1D-DC99-4C02-9DD6-2A60851B3212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC31E1D-DC99-4C02-9DD6-2A60851B3212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC31E1D-DC99-4C02-9DD6-2A60851B3212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {983FB2FF-42C9-4416-9657-3498AE69BCE7}
+	EndGlobalSection
+EndGlobal
